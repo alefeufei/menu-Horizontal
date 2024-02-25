@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.codeLensFontFamily": "'Dank Mono'",
+    "files.autoSave": "afterDelay"
+}
