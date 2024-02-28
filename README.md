@@ -1,5 +1,5 @@
 # MENU HORIZONTAL
 
-Primeiro Menu Horizontal Desenvolvido.
+Menu Horizontal responsivo, totalmente  customizado com CSS3 e HTML5. 
 
-É um menu responsivo.
+Confesso que me acostumei com boostrap.
