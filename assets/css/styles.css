@@ -76,7 +76,7 @@ header {
     }
 
     .nav-item {
-
+        display: none;
     }
 
     .login-button {
@@ -85,5 +85,12 @@ header {
 
     .mobile-menu-icon {
         display: block;
+    }
+
+    .mobile-menu-icon button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+
     }
 }
